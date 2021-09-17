@@ -1,4 +1,3 @@
-仅供学习交流
-
+It is only for learning and communication, and is not allowed to be used for business
 
 
