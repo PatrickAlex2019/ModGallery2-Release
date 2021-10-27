@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="mod_base">This mod is based in version 4.5.2</string>
+    <string name="qq_group">QQ Group</string>
+    <string name="app_translator">Translator</string>
+    <string name="app_translator_name">Default</string>
+    <string name="about">About</string>
+    <string name="add">Add</string>
+    <string name="animation">Transition animation</string>
+    <string name="animation_card">Card</string>
+    <string name="animation_cube">Cube</string>
+    <string name="animation_fade">Fade</string>
+    <string name="animation_flip">Flip</string>
+    <string name="animation_slide">Slide</string>
+    <string name="auto_black_background">Auto black background</string>
+    <string name="auto_hide_navbar">Auto hide navbar</string>
+    <string name="auto_hide_navbar_tips">Warning: due to the limitation before Android 4.4, when this bar is hidden, first gesture(touch, swipe, pinch) can only show the bar, then works normally!</string>
+    <string name="theme">Theme</string>
+    <string name="bkgnd_pattern">Grid pattern background</string>
+    <string name="bkgnd_pattern_summary">Grid pattern background for image with alpha channel</string>
+    <string name="browse">Browse</string>
+    <string name="browse_mode">Mode</string>
+    <string name="browse_explorer">Explorer</string>
+    <string name="browse_stack">Stack</string>
+    <string name="browse_grid">Grid</string>
+    <string name="browse_list">List</string>
+    <string name="cache">Cache</string>
+    <string name="cache_need_upgrade">Thumbnail cache need upgrade and will be deleted to regenerate.</string>
+    <string name="cache_previews">Cache fullscreen previews</string>
+    <string name="cache_previews_summary">Cache fullscreen previews to speed up next loading</string>
+    <string name="camera">Camera</string>
+    <string name="can_not_hide_camera_folder">Can not hide the album used by the camera app! If you want to hide some photos, move them to another album.</string>
+    <string name="can_not_operate_now">The system media scanner is busy now, it may delete these files! Please try again later.</string>
+    <string name="clear_previews">Clear previews cache</string>
+    <string name="clear_previews_confirm">Clear fullscreen previews cache?</string>
+    <string name="clear_thumbnails">Clear thumbnails cache</string>
+    <string name="clear_thumbnails_confirm">Clear micro thumbnails cache?</string>
+    <string name="copy_to">Copy to</string>
+    <string name="cover">Change cover</string>
+    <string name="crop">Crop</string>
+    <string name="crop_by_cropper">By cropper</string>
+    <string name="crop_thumbnail">Crop thumbnails into square</string>
+    <string name="custom">Customize…</string>
+    <string name="default">Default</string>
+    <string name="delay_load">Delay load real image</string>
+    <string name="delay_load_summary">Load real size image when zoom in to save power</string>
+    <string name="delete">Delete</string>
+    <string name="deselect_all">Deselect all</string>
+    <string name="desktop_link">Link to desktop</string>
+    <string name="details">Details</string>
+    <string name="email">Email</string>
+    <string name="edit">Edit</string>
+    <string name="exclude">Exclude</string>
+    <string name="exclude_confirm">Excluding a folder will exclude all the sub-folders, but if you are excluding multiple folders with same level, select their common parent in the following list will make thing easy:</string>
+    <string name="excluded_tips">Folders excluded, you can restore in albums settings.</string>
+    <string name="fix_date">Fix date</string>
+    <string name="fix_date_confirm">Try to fix the file date and media store with taken date in EXIF, to correct the sort order.
+
+Continue to fix?</string>
+    <string name="flip_horizontal">Flip horizontal</string>
+    <string name="flip_vertical">Flip vertical</string>
+    <string name="force_true_color">Force true color decoding</string>
+    <string name="force_true_color_summary">Force output 32bits true color image, may reduce the resolution</string>
+    <string name="interface">Interface</string>
+    <string name="grant_sd_permission">In the next screen, please select the root path of the SD card at left sidebar and confirm at bottom, to grant the writing permission of the SD card.</string>
+    <string name="hide">Hide</string>
+    <string name="unhide">Unhide</string>
+    <string name="hide_confirm">This command will hide all audios/videos/pictures in it and its sub-folders with Android .nomedia way.
+If you just want it invisible, please select Exclude.
+
+Continue to hide?</string>
+    <string name="hide_status_bar">Hide status bar</string>
+    <string name="horizontal_scroll">Horizontal navigation</string>
+    <string name="include_video">Include videos</string>
+    <string name="included_folders">Included folders</string>
+    <string name="included_folders_summary">Select folders to scan, oth
